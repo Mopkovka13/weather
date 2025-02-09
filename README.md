@@ -20,5 +20,12 @@ docker-compose up --build
 Start application ;)
 
 
-### Пометки
+### Notes
 - .env оставлен для удобства тестирования.
+
+### Example of application working
+
+![test1](readme/test1.png)
+![test1](readme/test2.png)
+![test1](readme/test4.png)
+![test1](readme/test3.png)
